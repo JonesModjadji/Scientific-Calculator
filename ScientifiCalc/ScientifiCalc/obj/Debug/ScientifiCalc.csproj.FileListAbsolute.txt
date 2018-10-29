@@ -20,3 +20,7 @@ G:\ScientifiCalc\ScientifiCalc\obj\Debug\ScientifiCalc.csprojResolveAssemblyRefe
 G:\ScientifiCalc\ScientifiCalc\obj\Debug\ScientifiCalc.exe
 G:\ScientifiCalc\ScientifiCalc\obj\Debug\ScientifiCalc.pdb
 G:\ScientifiCalc\ScientifiCalc\bin\Debug\ScientifiCalc.exe.config
+C:\Users\Modjadji\Documents\GitHub\Scientific-Calculator\ScientifiCalc\ScientifiCalc\obj\Debug\ScientifiCalc.csprojResolveAssemblyReference.cache
+C:\Users\Modjadji\Documents\GitHub\Scientific-Calculator\ScientifiCalc\ScientifiCalc\obj\Debug\ScientifiCalc.exe
+C:\Users\Modjadji\Documents\GitHub\Scientific-Calculator\ScientifiCalc\ScientifiCalc\obj\Debug\ScientifiCalc.pdb
+C:\Users\Modjadji\Documents\GitHub\Scientific-Calculator\ScientifiCalc\ScientifiCalc\bin\Debug\ScientifiCalc.exe.config
